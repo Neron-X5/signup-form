@@ -1,0 +1,10 @@
+.app {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(243, 165, 54);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
